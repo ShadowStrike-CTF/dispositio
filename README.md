@@ -1,6 +1,6 @@
 # Dispositio
 
-Legal argument structure and IRAC scaffolding. by Strategos.
+Strategos tool. Coming soon.
 
 GitHub: https://github.com/ShadowStrike-CTF/dispositio
 
