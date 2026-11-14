@@ -8,7 +8,7 @@ build-backend = "hatchling.build"
 [project]
 name = "dispositio"
 version = "1.0.0"
-description = "Legal argument structure and IRAC scaffolding. by Strategos."
+description = "Strategos tool. Coming soon."
 readme = "README.md"
 license = {text = "Proprietary"}
 authors = [
